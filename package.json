@@ -1,8 +1,8 @@
 {
-  "name": "web-doomarchives.com",
+  "name": "next-skeleton",
   "version": "0.1.0",
   "private": true,
-  "description": "doomarchives.com",
+  "description": "next-skeleton",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
